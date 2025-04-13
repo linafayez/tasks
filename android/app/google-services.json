@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81434582045",
+    "project_id": "tasks-joddb",
+    "storage_bucket": "tasks-joddb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81434582045:android:b5483aed7caa2998a43af4",
+        "android_client_info": {
+          "package_name": "com.example.tasks_joddb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCVtUqJo5zyh-wp2Y3-BLwsOjaJL5YUmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
