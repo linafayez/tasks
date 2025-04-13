@@ -1,16 +1,27 @@
-# tasks_joddb
+# 📝 tasks_joddb
 
-A new Flutter project.
+A simple and clean To-Do app.
 
-## Getting Started
+## 🚀 Getting Started
 
-This project is a starting point for a Flutter application.
+This app is built with:
 
-A few resources to get you started if this is your first Flutter project:
+- **Flutter** version: `3.22.3`
+- **Firebase** for authentication  
+- **Sqflite** as a local database to store tasks  
+- **BLoC** for state management  
+- **GetIt** for dependency injection  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📌 Notes
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- This app **does not follow the provided Figma design**, as I already implemented my own UI.
+- You're welcome to explore the code, test the features, and share feedback!
+- If you need anything or have questions during the review, feel free to ask.
+
+
+## 📱 Download APK
+
+🔗 [Download APK](https://drive.google.com/file/d/1iojFp32tD2c8ec58Tw4X0gxu7Wch-gb-/view?usp=sharing)
+
+
+  
